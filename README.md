@@ -60,6 +60,8 @@ For more than a year now, I have been actively exploring the fundamental concept
 
 <h3 align="left">Ambassador/Community Moderator:</h3>
   <ul>
+   <li> Moderator & Ambassador at <a href="https://www.fuel.network/" target="_blank"><strong>Fuel Network</strong></a>. The World's Fastest Modular Execution Layer.</li>
+   <li> Moderator at <a href="https://namada.net/" target="_blank"><strong>Namada Network</strong></a>. Interchain Asset-agnostic Privacy.</li>
     <li> Moderator & Ambassador at <a href="https://subspace.network/" target="_blank"><strong>Subspace Network</strong></a>. Infrastructure for Web3.</li>
     <li> Ambassador at <a href="https://massa.net" target="_blank"><strong>Massa Network</strong></a>.The truly decentralized L1 blockchain.</li>
     <li> Core Contributor at <a href="https://jediswap.xyz/" target="_blank"><strong>Jedi Swap</strong></a>. Decentralized and community-driven protocol that is built on StarkNet (ZK-Rollups for Ethereum).</li>
