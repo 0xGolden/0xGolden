@@ -10,7 +10,7 @@ _____
 </h3>
 
 <h4 align="center">
-The Truly Web3 and Blockchain Enthusiasm
+Web3 Contributor and Blockchain Validator
 </h4>
 
 <div id="badges" align="center">
