@@ -29,21 +29,7 @@ Web3 Contributor and Blockchain Validator
 <h2 align="center">Introduction</h2>
 
 <h3> Hi there! 👋 </h3> 
-For more than a year now, I have been actively exploring the fundamental concepts/technologies of Blockchain and Web3 in general. So, for example, for me it is very interesting how blockchain works and new paradigms of its development (the ones that brought us Solana, Sui/Aptos, Celestia/Fuel, etc.), now I stopped at researching zk-proofs technology.
-<p></p>
 <h4>I definitely believe that the future is Web3, and I'm happy to be part of the early projects that are building that future. 🚀 </h4>
-
-<h4> 👨‍💻 Here are some of my skills:</h4> 
-
-- **Effective**, succinct verbal and written **communication skills**, with the ability to tailor messaging to a broad set of audiences from varied professional, cultural, and technical backgrounds.
-
-- **Enthusiasm** for and knowledge about Decentralized Finance, Decentralized Governance Solutions, Web-3 and Blockchain technologies.
-
-- **Experience collaborating** with product, marketing, and engineers to build a new brand or organization.
-
-- Knowledge of **management tools** (Miro, Asana, Jira, Trello, Dework, Notion, Slack, Todoist and etc).
-
-- Strong skills in **managing and organizing Discord Server** (creating channels/branches, navigation, integration of bots and moderation, support/helping the community).
 
 <h2 align="center">Experience</h2>
 
