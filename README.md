@@ -10,73 +10,8 @@ _____
 </h3>
 
 <h4 align="center">
-Web3 Contributor and Blockchain Validator
+Web3 Contributor and Blockchain Validator | Building deNodes | https://denodes.xyz/
 </h4>
-
-<div id="badges" align="center">
-    <a href="https://t.me/goldzn">
-      <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
-      <a href="https://twitter.com/0xgoldzn">
-      <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-    <a href="https://github.com/0xGolden">
-      <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge"/>
-    </a>
-</div>
-
-
-<h2 align="center">Introduction</h2>
-
-<h3> Hi there! 👋 </h3> 
-<h4>I definitely believe that the future is Web3, and I'm happy to be part of the early projects that are building that future. 🚀 </h4>
-
-<h2 align="center">Experience</h2>
-
-<h3 align="left">Validator/Node Operator:</h3>
-  <ul>
-    <li> <a href="https://starkware.co/" target="_blank"> <strong>StarkNet</strong></a>. STARK-Based scaling solutions.</li>
-    <li> <a href="https://celestia.org/" target="_blank"><strong>Celestia</strong></a>. The first modular blockchain.</li>
-    <li> <a href="https://ironfish.com/" target="_blank"><strong>Iron Fish</strong></a>. The privacy platform for Web3.</li>
-    <li> <a href="https://subspace.network/" target="_blank"><strong>Subspace Network</strong></a>. Infrastructure for Web3.</li>
-    <li> <a href="https://sui.io/" target="_blank"><strong>Sui Network</strong></a>. Boundless L1 blockchain.</li>
-    <li> <a href="https://massa.net/" target="_blank"><strong>Massa Network</strong></a>. The truly decentralized L1 blockchain.</li>
-    <li> <a href="https://bundlr.network/" target="_blank"><strong>Bundlr Network</strong></a>. Data storage L2 solution.</li>
-  </ul>
-
-<h3 align="left">Ambassador/Community Moderator:</h3>
-  <ul>
-   <li> Moderator & Ambassador at <a href="https://www.fuel.network/" target="_blank"><strong>Fuel Network</strong></a>. The World's Fastest Modular Execution Layer.</li>
-   <li> Moderator at <a href="https://namada.net/" target="_blank"><strong>Namada Network</strong></a>. Interchain Asset-agnostic Privacy.</li>
-    <li> Moderator & Ambassador at <a href="https://subspace.network/" target="_blank"><strong>Subspace Network</strong></a>. Infrastructure for Web3.</li>
-    <li> Ambassador at <a href="https://massa.net" target="_blank"><strong>Massa Network</strong></a>.The truly decentralized L1 blockchain.</li>
-    <li> Core Contributor at <a href="https://jediswap.xyz/" target="_blank"><strong>Jedi Swap</strong></a>. Decentralized and community-driven protocol that is built on StarkNet (ZK-Rollups for Ethereum).</li>
-    <li> Contributor at <a href="https://www.connext.network/" target="_blank"><strong>Connext Network</strong></a>. The modular interoperability protocol for secure crosschain apps (xApps).</li>
-    <li> Contributor at <a href="https://www.zetachain.com/" target="_blank"><strong>ZetaChain</strong></a>. The foundational layer to a multichain future.</li>
-  </ul>
-
-<h2 name="intro" align="center">Official Links</h2>
-  <div id="badges" align="center">
-    <a href="https://t.me/goldzn">
-        <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Link3&logoColor=grey" alt="Telegram Badge"/>
-      </a>
-      <a href="https://twitter.com/0xgoldzn">
-        <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=Link3&logoColor=grey" alt="Twitter Badge"/>
-      </a>
-    <a href="https://github.com/0xGolden">
-        <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=Link3&logoColor=grey" alt="GitHub Badge"/>
-      </a>
-        <a href="https://link3.to/whoamgolden">
-        <img src="https://img.shields.io/badge/Link3-black?style=for-the-badge&logo=Link3&logoColor=grey" alt="Link3 Badge"/>
-      </a>
-        <a href="https://mirror.xyz/whoamgolden.eth">
-        <img src="https://img.shields.io/badge/Mirror-black?style=for-the-badge&logo=Mirror&logoColor=grey" alt="Mirror Badge"/>
-      </a>
-  </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=100&section=footer"/>
-</p>
 
 _____
 
