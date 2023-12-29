@@ -6,12 +6,21 @@ _____
 
 
 <h3 align="center">
-  <a href="https://twitter.com/0xGoldzn" target="_blank">0xGolden</a> /// whoamgolden.eth
+whoamgolden.eth
 </h3>
 
 <h4 align="center">
-Web3 Contributor and Blockchain Validator | Building deNodes | https://denodes.xyz/
+Web3 Contributor and Blockchain Validator | Building <a href="https://denodes.xyz/" target="_blank">deNodes</a>
 </h4>
 
-_____
-
+<div id="badges" align="center">
+    <a href="https://t.me/goldzn">
+      <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+      <a href="https://twitter.com/0xgoldzn">
+      <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://github.com/0xGolden">
+      <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge"/>
+    </a>
+</div>
